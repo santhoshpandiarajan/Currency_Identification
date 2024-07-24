@@ -1,5 +1,5 @@
 # Currency-Note-Detection-For-Blind-People
-It is a currency note detection project created for blind people. #SUBASHPALVEL #SubashPalvel #subashpalvel
+It is a currency note detection project created for blind people.
 
 
 This time, we worked on a project that is socially significant and designed to help blind people recognise
